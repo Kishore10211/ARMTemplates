@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountname": {
-      "value": "kzeuarmtmpsbdevsto03"
+      "value": "kzeuarmtmpsbdevsto02"
     },
     "storageAccounthttpsTrafficOnlyEnabled": {
       "value": true
