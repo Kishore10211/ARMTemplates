@@ -4,8 +4,9 @@
 $resourceGroupName='KZEU-ARMTMP-SB-DEV-RGP-01'
 $location='eastus'
 #$parametersUri='https://raw.githubusercontent.com/Kishore10211/ARMTemplates/master/Parameters/StorageAccount.parameters.json'
-$parametersUri='E:\PRADEEP\Kishore GitHub\ARMTemplates\Parameters\StorageAccount.parameters.json'
-$templateUri='https://raw.githubusercontent.com/Kishore10211/ARMTemplates/master/Templates/StorageAccount.json'
+$parametersUri='E:\Kishore\Kishore GitHub\ARMTemplates\Parameters\StorageAccount.parameters.json'
+$templateUri='https://raw.githubusercontent.com/Kishore10211/ARMTemplates/master/Templates/StorageAccount.json?access_token=2fa1b86c588ba5d701d3041c320bf61c1423fa54'
+#$templateUri='https://kzeuarmtmpsbdevsto01.blob.core.windows.net/mastertemplates/StorageAccount.json?sp=r&st=2018-11-06T09:03:01Z&se=2018-11-06T17:03:01Z&spr=https&sv=2017-11-09&sig=9%2FWHwrXT4%2FK7QH75oVVNw5gUQChIJV9hEZy%2Fro4ZdZ0%3D&sr=b'
 $clientID = "2c5f5bb4-ea19-4208-af44-417f629a5236"
 $key = "CPQ0Hsri+yw/EU+qQUYnBgI+ZioWAzB/oZQGziH9rcI="
 #endregion
