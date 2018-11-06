@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountname": {
-      "value": "kzeuazpressbdevsto01"
+      "value": "kzeuarmtmpsbdevsto01"
     },
     "storageAccounthttpsTrafficOnlyEnabled": {
       "value": true
@@ -19,9 +19,9 @@
     },
     "tagValues": {
       "value": {
-        "Project": "Policies Research",
+        "Project": "ARMTemplates",
         "Environment": "Dev",
-        "Application": "AzurePoliciesWithAzureDevOps",
+        "Application": "ARMTemplates",
         "CostCenter": "Headquarter"
       }
     }

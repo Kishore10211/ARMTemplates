@@ -15,7 +15,7 @@ These are the azure resources currently used in this application
 2.	Azure Key Vault
 
 # How to deploy the ARM templates from your local machine
-1.  Expand **Deployment** folder, in that open **SandBox** folder it having the two files are `Manifest.Dev.AzureDeployment.ps1` and `Manifest.Dev.json`
-2. Just Open `Manifest.Dev.AzureDeployment.ps1` file and update the varaibles values with your development subscription details and then Press `Ctrl+F5`
+1.  Expand **Deployment** folder, it having the two files are `ManifestAzureDeployment.ps1` and `Manifest.json`
+2. Just Open `ManifestAzureDeployment.ps1` file and update the varaibles values with your development subscription details and then Press `Ctrl+F5`
 3. if you want to stop the execution of PowerShell Script then you have to press `Shift+F5`
 
