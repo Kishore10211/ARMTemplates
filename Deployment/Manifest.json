@@ -1,0 +1,14 @@
+﻿{
+  "deploymentStacks": {
+    "value": [
+      "StorageAccount"
+    ]
+  },
+  "StorageAccount": [
+    {
+      "DeploymentName": "StorageAccount-Deployment",
+      "ParameterSet": "StorageAccount.parameters.json",
+      "Template": "StorageAccount.json"
+    }
+  ]
+}
